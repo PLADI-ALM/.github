@@ -20,7 +20,8 @@
 <details>
 <summary>사원 대표 기능</summary>
  <br>
-
+ 
+![12](https://github.com/PLADI-ALM/.github/assets/90022940/ed0088a3-2725-46a8-938a-a84a8f402ae2)
 ![13](https://github.com/PLADI-ALM/.github/assets/90022940/10d2d35b-6de8-4cca-87c5-c5ea8a924d2d)
 ![14](https://github.com/PLADI-ALM/.github/assets/90022940/6e04ac03-5cd0-4608-9804-c4e040eda214)
 ![15](https://github.com/PLADI-ALM/.github/assets/90022940/85ce58e3-94ed-4bd3-b14f-b5fb5f6bbf40)
