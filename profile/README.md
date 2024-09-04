@@ -11,8 +11,8 @@
 <summary>IA</summary>
  <br>
   
-![9](https://github.com/PLADI-ALM/.github/assets/90022940/47ceaeb5-debf-4746-a921-9e1182546f02)
-![10 오후 2 43 33](https://github.com/PLADI-ALM/.github/assets/90022940/a5fc9894-e087-4058-bd3a-acc0b6634ace)
+![19](https://github.com/user-attachments/assets/dc2edca2-f1b7-4933-9234-6517ef80c83f)
+![20](https://github.com/user-attachments/assets/17bfd9cc-f6ab-4f87-84a3-9004910d4c36)
 
 
 </details>
@@ -21,19 +21,18 @@
 <summary>사원 대표 기능</summary>
  <br>
  
-![12](https://github.com/PLADI-ALM/.github/assets/90022940/ed0088a3-2725-46a8-938a-a84a8f402ae2)
-![13](https://github.com/PLADI-ALM/.github/assets/90022940/10d2d35b-6de8-4cca-87c5-c5ea8a924d2d)
-![14](https://github.com/PLADI-ALM/.github/assets/90022940/6e04ac03-5cd0-4608-9804-c4e040eda214)
-![15](https://github.com/PLADI-ALM/.github/assets/90022940/85ce58e3-94ed-4bd3-b14f-b5fb5f6bbf40)
-![16](https://github.com/PLADI-ALM/.github/assets/90022940/507ff75a-972d-4ca1-9611-415fb4be95bd)
-![17](https://github.com/PLADI-ALM/.github/assets/90022940/fac30004-5572-4d98-b4e6-66a2271ac5bd)
-![18](https://github.com/PLADI-ALM/.github/assets/90022940/bdd05307-da61-4e3e-a891-bc8ab870a540)
-![19](https://github.com/PLADI-ALM/.github/assets/90022940/fd7431f1-9cc3-4d1a-8569-dcda894155a1)
-![20](https://github.com/PLADI-ALM/.github/assets/90022940/51a85371-d404-49dd-9330-e4e7886d959f)
-![21](https://github.com/PLADI-ALM/.github/assets/90022940/f88a9ab9-4d05-4ede-90ff-517ec7c83b5b)
-![22](https://github.com/PLADI-ALM/.github/assets/90022940/70df012e-f716-435e-9e30-2bd591c1c98a)
-![23](https://github.com/PLADI-ALM/.github/assets/90022940/9ed1c68c-9bc0-4d41-8194-934eef4cdab3)
-
+![12](https://github.com/user-attachments/assets/7dbc3c7e-cb81-4ec8-8b99-1e1a16f44ad5)
+![13](https://github.com/user-attachments/assets/65339a10-fbe3-43f3-8fec-e86801014af2)
+![14](https://github.com/user-attachments/assets/dc909722-1955-4715-ac44-01df0b348089)
+![15](https://github.com/user-attachments/assets/1306b2d7-b7e6-4f9f-b64e-5fe81b6e511b)
+![16](https://github.com/user-attachments/assets/a4edba2b-81b1-4d59-9864-b465f7f168df)
+![17](https://github.com/user-attachments/assets/d6fb8d44-ae5d-4977-a301-85c77e4f5cd0)
+![18](https://github.com/user-attachments/assets/b9196512-1f01-4c06-a872-3c0014512bcb)
+![19](https://github.com/user-attachments/assets/b500a446-5e8d-468a-a427-fa0480dd9739)
+![20](https://github.com/user-attachments/assets/a4cc65f2-c99a-411b-bee6-5a4c1a562e86)
+![21](https://github.com/user-attachments/assets/af4fd2af-de2b-428c-8147-e8ccb82e19e7)
+![22](https://github.com/user-attachments/assets/e41c479c-d0ba-4441-9e8e-1b5f2be40e7e)
+![23](https://github.com/user-attachments/assets/184b1373-a3d2-4529-a011-1b89af5ff959)
 
 </details>
 
@@ -41,9 +40,10 @@
 <summary>관리자 대표 기능</summary>
  <br>
 
-![25](https://github.com/PLADI-ALM/.github/assets/90022940/b8b00ae3-cef8-4098-965e-30c74b0bba6c)
-![26](https://github.com/PLADI-ALM/.github/assets/90022940/be97435b-6584-44c2-8b30-4dae26199795)
-![27](https://github.com/PLADI-ALM/.github/assets/90022940/a16b91b1-7734-42d9-95be-9fd838566b74)
+![25](https://github.com/user-attachments/assets/2016fda7-8170-4853-a5a0-3c5c720d0dcc)
+![26](https://github.com/user-attachments/assets/239bd2d3-2826-4b0e-a2ac-30d88fba89c5)
+![27](https://github.com/user-attachments/assets/edb179a2-3b3f-43d5-accb-0c64de4361a9)
+
 
 </details>
 
